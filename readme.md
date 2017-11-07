@@ -35,3 +35,7 @@ Class containing methods required to convert a text file to CSV and change certa
 ### S3Lib
 Supports connecting to and getting and putting data to and from AWS S3 buckets.
 
+## Usage
+
+See example usage here: https://www.dativa.com/simple-data-validation-before-hits-data-pipeline/
+
